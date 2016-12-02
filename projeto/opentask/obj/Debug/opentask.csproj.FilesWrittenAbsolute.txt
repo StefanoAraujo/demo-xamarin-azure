@@ -1,0 +1,15 @@
+/Users/cynthia/Desktop/opentask_Xamarin_Forms 2/opentask/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/cynthia/Desktop/opentask_Xamarin_Forms 2/opentask/obj/Debug/opentask.TodoList.xaml.g.cs
+/Users/cynthia/Desktop/opentask_Xamarin_Forms 2/opentask/obj/Debug/opentask.TodoList.xaml
+/Users/cynthia/Desktop/opentask_Xamarin_Forms 2/opentask/bin/Debug/opentask.dll.mdb
+/Users/cynthia/Desktop/opentask_Xamarin_Forms 2/opentask/bin/Debug/opentask.dll
+/Users/cynthia/Desktop/opentask_Xamarin_Forms 2/opentask/obj/Debug/opentask.dll
+/Users/cynthia/Desktop/opentask_Xamarin_Forms 2/opentask/obj/Debug/opentask.dll.mdb
+/Users/cynthia/Desktop/opentask_Xamarin_Forms 2/opentask/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/cynthia/Desktop/opentask_Xamarin_Forms 2/opentask/bin/Debug/Newtonsoft.Json.dll
+/Users/cynthia/Desktop/opentask_Xamarin_Forms 2/opentask/bin/Debug/System.Net.Http.dll
+/Users/cynthia/Desktop/opentask_Xamarin_Forms 2/opentask/bin/Debug/System.Net.Http.Extensions.dll
+/Users/cynthia/Desktop/opentask_Xamarin_Forms 2/opentask/bin/Debug/System.Net.Http.Primitives.dll
+/Users/cynthia/Desktop/opentask_Xamarin_Forms 2/opentask/bin/Debug/Xamarin.Forms.Core.dll
+/Users/cynthia/Desktop/opentask_Xamarin_Forms 2/opentask/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/cynthia/Desktop/opentask_Xamarin_Forms 2/opentask/bin/Debug/Xamarin.Forms.Xaml.dll
