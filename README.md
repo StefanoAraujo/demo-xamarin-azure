@@ -162,4 +162,4 @@ Nesta classe, fazemos todo gerenciamento da aplicação, como chamada para o App
 
 ## Treinamento gratuito de Xamarin
 
-Quer aprender mais sobre desenvolvimento mobile cross-platform? Acesse nosso portal [OSS Mobile](aka.ms/ossmobile) e assista aos treinamentos técnicos e fique pode dentro das novidades sobre a plataforma.
+Quer aprender mais sobre desenvolvimento mobile cross-platform? Acesse nosso portal [OSS Mobile](http://aka.ms/ossmobile) e assista aos treinamentos técnicos e fique pode dentro das novidades sobre a plataforma.
